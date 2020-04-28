@@ -1,3 +1,3 @@
-# DesignPatern
+# Design Patterns and Object Oriented Analysis and Design
 
-![](https://raw.githubusercontent.com/praveenambati1233/Hibernate/master/orm.png)
+1. [Singleton](https://github.com/praveenambati1233/DesignPatern/blob/master/Singleton.md "Singleton")
