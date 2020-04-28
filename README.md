@@ -11,7 +11,7 @@ SOLID Principles
 
 ------------
 
-#OOAD
+# OOAD
 
 1. Shoping card design ( CDK Interview )
 2.  Grocery store
