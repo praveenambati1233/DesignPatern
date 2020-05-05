@@ -1,4 +1,4 @@
-# Design Patterns and Object Oriented Analysis and Design / System Design
+# Design Patterns,  Object Oriented Analysis and Design and  System Design
 
 What is Design Pattern ?
 
@@ -10,6 +10,8 @@ Design patterns are categorized into three types —
 - [Singleton](https://github.com/praveenambati1233/DesignPatern/blob/master/Singleton.md "Singleton")
 
 2. Behavioral and
+
+-[Strategy](https://github.com/praveenambati1233/DesignPattern/blob/master/StrategyDesignPattern.md "Strategy")
 
 3. Structural.
 
