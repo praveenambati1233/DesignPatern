@@ -11,7 +11,7 @@ Design patterns are categorized into three types —
 
 2. Behavioral and
 
--[Strategy](https://github.com/praveenambati1233/DesignPattern/blob/master/StrategyDesignPattern.md "Strategy")
+- [Strategy](https://github.com/praveenambati1233/DesignPattern/blob/master/StrategyDesignPattern.md "Strategy")
 
 3. Structural.
 
